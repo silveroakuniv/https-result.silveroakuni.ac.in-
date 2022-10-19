@@ -1,0 +1,13 @@
+
+      @media only screen and (max-width: 600px) {
+        /*body {
+          background-color: #FFF;
+        }*/
+        .mob-width {
+          padding-left: 0px !important;
+        }
+        #exampl_table {
+          font-size: 10px;
+        }
+      }
+    
